@@ -107,7 +107,7 @@ Visit: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ## ✨ Bonus Ideas
 
-Want to level up the project? Consider adding:
+Currently working on to adding these into the project::
 - 🧠 In-memory caching
 - ✅ Unit tests using `pytest`
 - 🐳 Docker support
